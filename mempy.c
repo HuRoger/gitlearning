@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+#include <tim>
 int *array2();
 int main(int argc, char const *argv[])
 {
